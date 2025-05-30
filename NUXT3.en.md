@@ -1,4 +1,4 @@
-# Code Conventions - Raichu Web Project
+# Code Conventions 
 
 **Author:** hoangtph <hoangtph@fabbi.com.vn>  
 **Last Updated:** May 2024  
